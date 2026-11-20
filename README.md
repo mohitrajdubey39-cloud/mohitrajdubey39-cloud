@@ -27,13 +27,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
-### Web Development & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
